@@ -1,2 +1,6 @@
 # bug_reporting
-A place for users to place bugs and issues
+
+
+Use this website to report bugs on MakerFleet's Website. I'll try my best to respond to issues as quickly as possible.
+
+Thank you for contributing to Makerfleet's development!
